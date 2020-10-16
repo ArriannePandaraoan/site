@@ -38,6 +38,7 @@ background: #FFFFFF;
   color: black;
 }
 
+
 /*
 .logoBox1 {
   position: absolute;
@@ -153,7 +154,7 @@ color: #424242;
   height: 0px;
   left: 94px;
   top: 870px;
-  border: 3px solid #4BBEFF;
+  background:  #4BBEFF;
 }
 
 .text {
@@ -249,7 +250,7 @@ color: black;
   height: 0px;
   left: 94px;
   top: 1520px;
-  border: 3px solid #4BBEFF;
+  background:  #4BBEFF; 
 }
 
 .radar {
@@ -412,8 +413,8 @@ top: 1930px;
     width: 40px;
     height: 0px;
     left: 94px;
-    top: 2180px;
-    border: 3px solid #6AA3FF;
+    top: 2170px;
+    background:  #4BBEFF; 
 }
 
 
@@ -651,7 +652,7 @@ textarea {
 position: absolute;
 width: 898px;
 height: 384px;
-left: 390px;
+left: 26%;
 top: 220px;
 
 }
